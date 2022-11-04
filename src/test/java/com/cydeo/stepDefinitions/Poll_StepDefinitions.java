@@ -97,7 +97,6 @@ public class Poll_StepDefinitions {
         }
 
 
-
     @When("user clicks the Allow multiple choice input")
     public void user_clicks_the_allow_multiple_choice_input() {
         BrowserUtils.sleep(3);

@@ -20,6 +20,7 @@ import org.junit.runner.RunWith;
         tags="@NEXTBASE-1458",
         publish=false
 )
+
 public class CukesRunner {
 
 

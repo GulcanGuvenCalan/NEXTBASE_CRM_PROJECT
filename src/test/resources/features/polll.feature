@@ -4,7 +4,6 @@ Feature: Default
 
 	#Verify Employee and department contact list
 	@NEXTBASE-1458
-
 		Scenario:Verify Employee and department contact list
 		 Given user is already  logged in the homepage page
 		    When user clicks the poll button

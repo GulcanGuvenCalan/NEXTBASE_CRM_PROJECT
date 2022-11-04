@@ -53,7 +53,6 @@ public class PollPage {
     public List<WebElement> deleteQuestions;
 
 
-
     @FindBy(xpath = "//input[@id='multi_0']")
     public  WebElement allowMultipleChoiceBoxInput;
 
